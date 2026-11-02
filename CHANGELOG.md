@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.22.0](https://github.com/rolehippie/kubetools/compare/v4.21.0...v4.22.0) (2026-11-02)
+
+### Dependencies
+
+* **minor:** update dependency fluxcd/flux2 to v2.10.0 ([#349](https://github.com/rolehippie/kubetools/issues/349)) ([d49368a](https://github.com/rolehippie/kubetools/commit/d49368a7cf54d2457b4e3af1b156cfba5f693d70))
+* **mise:** update dependency prek to v0.5.9 ([#351](https://github.com/rolehippie/kubetools/issues/351)) ([c7f76ef](https://github.com/rolehippie/kubetools/commit/c7f76ef944873ceeb886769c10a92a753f762cad))
+* **mise:** update node.js to v26 ([#350](https://github.com/rolehippie/kubetools/issues/350)) ([0a401b9](https://github.com/rolehippie/kubetools/commit/0a401b9f1dd52ebe5982ecc359d95981db800160))
+
 ## [4.21.0](https://github.com/rolehippie/kubetools/compare/v4.20.3...v4.21.0) (2026-10-26)
 
 ### Dependencies
