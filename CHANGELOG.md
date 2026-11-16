@@ -1,5 +1,22 @@
 # Changelog
 
+## [4.23.0](https://github.com/rolehippie/kubetools/compare/v4.22.0...v4.23.0) (2026-11-16)
+
+* automated readme update [skip ci] ([4250e98](https://github.com/rolehippie/kubetools/commit/4250e980aaf70f1dfe01ee67c53c5dd881c69894))
+* automated readme update [skip ci] ([4a0f8ba](https://github.com/rolehippie/kubetools/commit/4a0f8babeb00dd7df6297888c2b14e3d150a7994))
+* automated readme update [skip ci] ([bae4a1a](https://github.com/rolehippie/kubetools/commit/bae4a1ad0495bcd4d9439989a68e4e6ae41f81f5))
+
+### Dependencies
+
+* **minor:** update version prefix ([#354](https://github.com/rolehippie/kubetools/issues/354)) ([08a688e](https://github.com/rolehippie/kubetools/commit/08a688ef511b9e4a6eaf6137c5dff7af2f0761e1))
+* **mise:** update dependency pipx:ansible-core to v2.22.0 ([#353](https://github.com/rolehippie/kubetools/issues/353)) ([18bbfb1](https://github.com/rolehippie/kubetools/commit/18bbfb19992c74dc12f82a0361e072594d142f0e))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.4 ([#359](https://github.com/rolehippie/kubetools/issues/359)) ([8792fb7](https://github.com/rolehippie/kubetools/commit/8792fb7b1c0828cfb3cbbae9f493bc995a621c3d))
+* **mise:** update dependency pipx:ansible-lint to v26.11.0 ([#357](https://github.com/rolehippie/kubetools/issues/357)) ([29e9005](https://github.com/rolehippie/kubetools/commit/29e90051d1dcbe7e91db02e376ed9596cf6bdcf2))
+* **mise:** update dependency pipx:molecule to v26.11.0 ([#358](https://github.com/rolehippie/kubetools/issues/358)) ([fc688db](https://github.com/rolehippie/kubetools/commit/fc688db786ba99fc45302b7a27858a2ef1faa4f8))
+* **mise:** update dependency prek to v0.5.10 ([#355](https://github.com/rolehippie/kubetools/issues/355)) ([06005cf](https://github.com/rolehippie/kubetools/commit/06005cfaa7099430db3cf679881a633d6811843e))
+* **patch:** update dependency argoproj/argo-cd to v3.5.7 ([#352](https://github.com/rolehippie/kubetools/issues/352)) ([db3d9cf](https://github.com/rolehippie/kubetools/commit/db3d9cf954ba669171e234e708404f42497b0fd5))
+* **patch:** update dependency argoproj/argo-cd to v3.6.1 ([#356](https://github.com/rolehippie/kubetools/issues/356)) ([9c509ee](https://github.com/rolehippie/kubetools/commit/9c509ee83cc032360efb00bc56db813627e623b4))
+
 ## [4.22.0](https://github.com/rolehippie/kubetools/compare/v4.21.0...v4.22.0) (2026-11-02)
 
 ### Dependencies
