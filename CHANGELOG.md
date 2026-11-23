@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.23.1](https://github.com/rolehippie/kubetools/compare/v4.23.0...v4.23.1) (2026-11-23)
+
+* automated readme update [skip ci] ([4535cda](https://github.com/rolehippie/kubetools/commit/4535cdac2340aead25625b13b3e7d50dfa63878f))
+* automated readme update [skip ci] ([c387b35](https://github.com/rolehippie/kubetools/commit/c387b35ebebb19e2ad2e6bd72796faf0c13d1f27))
+
+### Dependencies
+
+* **mise:** update dependency prek to v0.5.11 ([#360](https://github.com/rolehippie/kubetools/issues/360)) ([693693e](https://github.com/rolehippie/kubetools/commit/693693e7abc62aa4fa6ff3d34dcfe80e408b57dc))
+* **patch:** update dependency argoproj/argo-cd to v3.6.2 ([#361](https://github.com/rolehippie/kubetools/issues/361)) ([76d0681](https://github.com/rolehippie/kubetools/commit/76d06812583229a9f39bc19cc0be65c53bfea47f))
+* **patch:** update dependency fluxcd/flux2 to v2.10.1 ([#362](https://github.com/rolehippie/kubetools/issues/362)) ([b72f4c8](https://github.com/rolehippie/kubetools/commit/b72f4c8becb2364b78408f96ad0c5f564b140b04))
+
 ## [4.23.0](https://github.com/rolehippie/kubetools/compare/v4.22.0...v4.23.0) (2026-11-16)
 
 * automated readme update [skip ci] ([4250e98](https://github.com/rolehippie/kubetools/commit/4250e980aaf70f1dfe01ee67c53c5dd881c69894))
